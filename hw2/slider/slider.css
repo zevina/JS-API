@@ -60,7 +60,6 @@
 
 .slider-dot {
     color: lightgray;
-    transition: all 3ms;
 }
 
 .slider-dot:hover {
